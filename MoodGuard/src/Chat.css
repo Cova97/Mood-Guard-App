@@ -1,0 +1,43 @@
+.chat-container {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .chat-box {
+    border: 1px solid #ccc;
+    padding: 20px;
+    height: 300px;
+    overflow-y: auto;
+    margin-bottom: 20px;
+    background-color: #f9f9f9;
+  }
+  
+  .user-message {
+    text-align: right;
+    color: #007bff;
+  }
+  
+  .system-message {
+    text-align: left;
+    color: #333;
+  }
+  
+  input {
+    width: 70%;
+    padding: 10px;
+    margin-right: 10px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
