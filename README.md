@@ -1,6 +1,3 @@
-Con la información proporcionada, aquí tienes el contenido para el archivo `README.md`:
-
-```md
 # MoodGuard - Web App para la Detección de Síntomas de Depresión
 
 MoodGuard es una web app que ayuda a detectar síntomas de depresión mediante un chatbot. El chatbot consume una API personalizada basada en un modelo de OpenAI, ya preconfigurada y desplegada en Render. La interfaz está construida con Vite + React y utiliza Chakra UI para el diseño.
